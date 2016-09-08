@@ -5,7 +5,7 @@ title: Moving out procedure and such
 I already finished most of the tasks required for leaving home, and I'm pretty much ready to go to Japan now. This list might be helpful for other people leaving Switzerland, I've written down all the points I remembered. Everything's in German, since the tasks are specific for moving out of Switzerland.
 
 - Visum auf Botschaft beantragen 
-- -- `Certificate of Eligibility benötigt; beantragt von Arbeitsgeber in Japan`
+  - -- `Certificate of Eligibility benötigt; beantragt von Arbeitsgeber in Japan`
 - Urlaubsgesuch Militär / Zivildienst / Zivilschutz abschicken
   - Wehrpflichtersatzabgabe bezahlen `variiert nach Lohn und Länge des Auslandaufenthalts`
   -  -- `Für Zivildienst folgendes Gesuch: [https://www.zivi.admin.ch/zivi/de/home/zivi-sein/waehrend-eines-einsatzes/urlaub.html]`
