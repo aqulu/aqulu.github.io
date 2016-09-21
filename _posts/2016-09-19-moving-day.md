@@ -14,4 +14,10 @@ The flight with Etihad Ariways pretty decent - even though the first part from Z
 
 After going through the whole immigration procedure at Narita airport, I took the Narita Express to Shinagawa where I met Kaoru around 4 PM. We went to my sharehouse to drop off my luggage. We walked around the neighborhood, buying necessities like bathing towels, shampoo and so on. By the way, it's a lot of fun to walk around carrying your luggage during a typhoon!
 
-Kaoru left soon thereafter, since she had to get up around 3AM for an early flight the next day. She stayed until I signed all the contracts and made sure I understood everything. Hell of a lot of text to basicaly say "behave or we might throw you out" and "you'll pay for anything you (accidentally) destroy".
+!(View from my balcony)[{{site.url}}/assets/IMG_20160921_194522.jpg]
+View from my room's balcony
+
+Kaoru left soon thereafter, since she had to get up around 3AM for an early flight the next day. She stayed until I signed all the contracts and made sure I understood everything. Hell of a lot of text to basicaly say "behave like a decent human being or we might throw you out" and "you'll pay for anything you (accidentally) destroy".
+
+!(My door)[{{site.url}}/assets/IMG_20160921_193920.jpg]
+My door - look at the upper right corner
