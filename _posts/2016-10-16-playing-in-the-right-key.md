@@ -45,7 +45,7 @@ So in order for my future self to be able to play in tune, here's a list of scal
 
 ## F# Major
 
-![ F#-Major scale ]({{ site.url}}/assets/f#-major.png)
+![ F#-Major scale ]({{ site.url}}/assets/fsharp-major.png)
 
 note: the last E should be an E#
 
@@ -109,16 +109,16 @@ note: the last E should be an E#
 
 ## F# Minor
 
-![ F#-Minor scale ]({{ site.url}}/assets/f#-minor.png)
+![ F#-Minor scale ]({{ site.url}}/assets/fsharp-minor.png)
 
 ## C# Minor
 
-![ C#-Minor scale ]({{ site.url}}/assets/c#-minor.png)
+![ C#-Minor scale ]({{ site.url}}/assets/csharp-minor.png)
 
 
 ## G# Minor
 
-![ G#-Minor scale ]({{ site.url}}/assets/g#-minor.png)
+![ G#-Minor scale ]({{ site.url}}/assets/gsharp-minor.png)
 
 
 ## Eb Minor
