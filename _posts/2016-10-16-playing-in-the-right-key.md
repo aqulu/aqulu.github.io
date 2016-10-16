@@ -3,7 +3,7 @@ layout: post
 title: playing in the right key 
 ---
 
-I've been to my first <a href="https://www.meetups.com" target="_blank">meetup</a> on Saturday! Playing the ocarina by myself got kinda boring over time, so I wanted to jam with some people.
+I've been to my first <a href="https://www.meetup.com" target="_blank">meetup</a> on Saturday! Playing the ocarina by myself got kinda boring over time, so I wanted to jam with some people.
 It has been my first time to play with other people, so it was kinda hard to play along, since most participants were pretty good musicians. Still, it was a lot of fun to meet them, everyone was very open, patient and encouraging.
 
 For anyone who struggles at these kind of gatherings, few tips. First try to identify the key of a song - usually people let you know about the key of the song before starting it anyway. After that it's probably just hitting the notes that fit with that key. For my instrument, an alto C ocarina, the easiest key to play in is C major. I can just use the regular fingering pattern and everything sounds perfectly okay (assuming yo don't screw up the rythm).
