@@ -22,7 +22,7 @@ After this troublesome afternoon I went out to stroll around the neighborhood, e
 Close to the martial arts guy there was someone playing a whistle or flute. He was either a beginner, just playing whatever felt right to him, or he might have been playing an Arabic tune of sorts. I'm not used to these kind of harmonies and scales, but I enjoyed it none the less. The unfamiliar melody was accompanied by the constant chirping of cicdas, complementing the scenery of the dark and spacious path next to the river. The only source of light was the moon, appearing unusually large and in a dark-yellow / orange color that evening, and the fact that I couldn't see, but only hear the flute player made the atmosphere even more beautiful.
 Without realizing how much time really passed by, I stayed at that place for a while.
 
-![ dark night in Zoushiki ]({{ site.url}}/assets/IMG_20161017.jpg)
+![ dark night in Zoushiki ]({{ site.url}}/assets/IMG-20161017.jpg)
 (It's hard to capture the moon with your smartphone camera)
 
 I love how nobody gives you that annoyed look when you're doing something that's "out of the norm", like the one that you get in smaller towns like where I am from. I know, you're supposed to just not care about these people, but it's still an unpleasant feeling...
