@@ -17,7 +17,7 @@ What a great day...
 
 # a stroll along the river
 
-After this troublesome afternoon I went out to stroll around the neighborhood, enjoying the already very dark evening (it was only a little after 5pm). There's a river nearby and it was fascinating to see how peaceful such a crowded city can be. I've seen a lot of joggers, people waking their dogs, riding home from various club-activities, someone was playing the guitar and there was even someone practicing martial arts outside.
+After this troublesome afternoon, I went for a stroll around the neighborhood, enjoying the already very dark evening (it was only a little after 5pm). There's a river nearby and it was fascinating to see how peaceful such a crowded city can be. I've seen a lot of joggers, people waking their dogs, riding home from various club-activities, someone was playing the guitar and there was even someone practicing martial arts outside.
 
 Close to the martial arts guy there was someone playing a whistle or flute. He was either a beginner, just playing whatever felt right to him, or he might have been playing an Arabic tune of sorts. I'm not used to these kind of harmonies and scales, but I enjoyed it none the less. The unfamiliar melody was accompanied by the constant chirping of cicdas, complementing the scenery of the dark and spacious path next to the river. The only source of light was the moon, appearing unusually large and in a dark-yellow / orange color that evening, and the fact that I couldn't see, but only hear the flute player made the atmosphere even more beautiful.
 Without realizing how much time really passed by, I stayed at that place for a while.
