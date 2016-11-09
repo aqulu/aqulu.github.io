@@ -40,4 +40,4 @@ Milt trat alleine auf. Mit einer Loop-Station und Effektpedalen wurde der unsche
 
 ![ Milt und ich ]({{ site.url}}/assets/IMG_20161104_4.jpg)
 
-Damit endete mein Tag an der 東京楽器フェア dann, und ich brach auf für das Karate Training, wie jeden Freitag. Was für eine toller Tag!
+Damit endete mein Tag an der 東京楽器フェア dann, und ich brach auf für das Karate Training, wie jeden Freitag. Was für ein toller Tag!
