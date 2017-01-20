@@ -6,7 +6,7 @@ title: Lang ist's her...
 Ist schon 'ne ganze Weile her, seit meinem letzten Post, trotzdem hat sich nicht besonders viel geändert seither.
 
 ## Nintendo Switch Event
-Wohl etwas vom spannendsten (für Gaming affine Leute) war die Präsentation der Nintendo Switch letzte Woche am Freitag. Mir bot sich die möglichkeit, das Event, das auf die Präsentation vom Freitag folgte zu besuchen. Ich traf mich Sonntag Morgen mit zwei Arbeitskollegen und sowie einem Freund aus Deutschland - wohl einer der grössten Nintendo-Fans, den ich kenne -um zu besagter Veranstaltung zu gehen. Der Eintritt war frei, die Anstehschlange zwar relativ lang, aber war halb so schlimm, da die Stimmung auch ganz angenehm war.
+Wohl etwas vom Spannendsten (für gaming-affine Leute) war die Präsentation der Nintendo Switch letzte Woche Freitag. Mir bot sich die Möglichkeit, das Event, das auf die Präsentation vom Freitag folgte, zu besuchen. Ich traf mich Sonntag Morgen mit zwei Arbeitskollegen und sowie einem Freund aus Deutschland - wohl einer der grössten Nintendo-Fans, den ich kenne -um zu besagter Veranstaltung zu gehen. Der Eintritt war frei, die Anstehschlange zwar relativ lang, aber war halb so schlimm, da die Stimmung auch ganz angenehm war.
 Nach gut 30min warten, durften wir dann die Hallen betreten. Die Dekoration wurde mit viel Liebe zum Detail angebracht, und überall konnte man die verschiedensten sich noch in Entwicklung befindlichen Spiele antesten.
 Für die ganz grossen Spiele musste man sich um 8 Uhr ein Ticket besorgen, was wir im Voraus leider nicht wussten, und so und lediglich mit Zuschauen der Blockbuster abfinden mussten.
 
