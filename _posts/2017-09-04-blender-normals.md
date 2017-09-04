@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting started with Blender: Messed up normals
+title: Getting started with Blender - Messed up normals
 ---
 
 # In brief
