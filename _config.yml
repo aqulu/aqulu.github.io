@@ -24,4 +24,4 @@ github_username:  aqulu
 
 # Build settings
 markdown: kramdown
-theme: hacker
+theme: jekyll-theme-hacker
