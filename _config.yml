@@ -18,7 +18,7 @@ email: me@aqu.lu
 description: > # this means to ignore newlines until "baseurl:"
   A blog about moving to Japan, programming, karate and ocarinas
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.aqu.lu" # the base hostname & protocol for your site
+url: "https://www.aqu.lu" # the base hostname & protocol for your site
 twitter_username: aqulu1
 github_username:  aqulu
 
